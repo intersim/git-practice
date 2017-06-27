@@ -2,3 +2,4 @@
 _Add your hometown below!_
 
 * Santa Cruz, CA
+* New York, NY
