@@ -9,6 +9,7 @@
 * pull request
 
 ## Essential commands
+* `git init`
 * `git clone ${remote repo url}`
 * `git add`
 * `git commit`
@@ -24,7 +25,14 @@
 * `git branch`
 
 ## Exercises
-### Begin
+### Create a local repo, connect it to a remote repo
+1. A uses `git init` to create a new local repo
+1. A creates a new remote repo on github
+1. A adds the remote repo as a new remote called `origin` in their local repo
+1. A adds B as collaborator on the remote repo on Github
+1. B clones the workshop onto their machine
+
+### Fork & Clone a Repo
 1. A forks workshop on Github
 1. A adds the original repo as a new remote called `upstream`
 1. A adds B as collaborator on workshop on Github
